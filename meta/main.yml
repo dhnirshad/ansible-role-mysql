@@ -1,5 +1,5 @@
 galaxy_info:
-  author: IRSHAD ALAM
+  author: IRSHAD
   description: Software Engineer
   company: your company (optional)
 
@@ -27,10 +27,10 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-   platforms:
-   - name: Debian
-     versions:
-     - all
+  platforms:
+  - name: Debian
+    versions:
+    - all
   # - name: SomePlatform
   #   versions:
   #   - all
